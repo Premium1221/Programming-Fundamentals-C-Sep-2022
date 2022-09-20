@@ -1,0 +1,16 @@
+D:\VS\01. Ages\Triangle of Numbers\bin\Debug\net5.0\Triangle of Numbers.exe
+D:\VS\01. Ages\Triangle of Numbers\bin\Debug\net5.0\Triangle of Numbers.deps.json
+D:\VS\01. Ages\Triangle of Numbers\bin\Debug\net5.0\Triangle of Numbers.runtimeconfig.json
+D:\VS\01. Ages\Triangle of Numbers\bin\Debug\net5.0\Triangle of Numbers.runtimeconfig.dev.json
+D:\VS\01. Ages\Triangle of Numbers\bin\Debug\net5.0\Triangle of Numbers.dll
+D:\VS\01. Ages\Triangle of Numbers\bin\Debug\net5.0\ref\Triangle of Numbers.dll
+D:\VS\01. Ages\Triangle of Numbers\bin\Debug\net5.0\Triangle of Numbers.pdb
+D:\VS\01. Ages\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.csproj.AssemblyReference.cache
+D:\VS\01. Ages\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\01. Ages\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.AssemblyInfoInputs.cache
+D:\VS\01. Ages\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.AssemblyInfo.cs
+D:\VS\01. Ages\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.csproj.CoreCompileInputs.cache
+D:\VS\01. Ages\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.dll
+D:\VS\01. Ages\Triangle of Numbers\obj\Debug\net5.0\ref\Triangle of Numbers.dll
+D:\VS\01. Ages\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.pdb
+D:\VS\01. Ages\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.genruntimeconfig.cache

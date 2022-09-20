@@ -1,0 +1,16 @@
+D:\VS\01. Ages\Login\bin\Debug\net5.0\Login.exe
+D:\VS\01. Ages\Login\bin\Debug\net5.0\Login.deps.json
+D:\VS\01. Ages\Login\bin\Debug\net5.0\Login.runtimeconfig.json
+D:\VS\01. Ages\Login\bin\Debug\net5.0\Login.runtimeconfig.dev.json
+D:\VS\01. Ages\Login\bin\Debug\net5.0\Login.dll
+D:\VS\01. Ages\Login\bin\Debug\net5.0\ref\Login.dll
+D:\VS\01. Ages\Login\bin\Debug\net5.0\Login.pdb
+D:\VS\01. Ages\Login\obj\Debug\net5.0\Login.csproj.AssemblyReference.cache
+D:\VS\01. Ages\Login\obj\Debug\net5.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\01. Ages\Login\obj\Debug\net5.0\Login.AssemblyInfoInputs.cache
+D:\VS\01. Ages\Login\obj\Debug\net5.0\Login.AssemblyInfo.cs
+D:\VS\01. Ages\Login\obj\Debug\net5.0\Login.csproj.CoreCompileInputs.cache
+D:\VS\01. Ages\Login\obj\Debug\net5.0\Login.dll
+D:\VS\01. Ages\Login\obj\Debug\net5.0\ref\Login.dll
+D:\VS\01. Ages\Login\obj\Debug\net5.0\Login.pdb
+D:\VS\01. Ages\Login\obj\Debug\net5.0\Login.genruntimeconfig.cache

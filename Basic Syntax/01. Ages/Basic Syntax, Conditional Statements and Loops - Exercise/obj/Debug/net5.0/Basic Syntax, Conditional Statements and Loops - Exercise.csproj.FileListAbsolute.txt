@@ -1,0 +1,16 @@
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.exe
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.deps.json
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.runtimeconfig.json
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.runtimeconfig.dev.json
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.dll
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\ref\Basic Syntax, Conditional Statements and Loops - Exercise.dll
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.pdb
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.csproj.AssemblyReference.cache
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.AssemblyInfoInputs.cache
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.AssemblyInfo.cs
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.csproj.CoreCompileInputs.cache
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.dll
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\ref\Basic Syntax, Conditional Statements and Loops - Exercise.dll
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.pdb
+D:\VS\01. Ages\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Basic Syntax, Conditional Statements and Loops - Exercise.genruntimeconfig.cache

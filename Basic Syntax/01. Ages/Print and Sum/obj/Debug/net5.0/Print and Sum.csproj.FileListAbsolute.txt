@@ -1,0 +1,15 @@
+D:\VS\01. Ages\Print and Sum\bin\Debug\net5.0\Print and Sum.exe
+D:\VS\01. Ages\Print and Sum\bin\Debug\net5.0\Print and Sum.deps.json
+D:\VS\01. Ages\Print and Sum\bin\Debug\net5.0\Print and Sum.runtimeconfig.json
+D:\VS\01. Ages\Print and Sum\bin\Debug\net5.0\Print and Sum.runtimeconfig.dev.json
+D:\VS\01. Ages\Print and Sum\bin\Debug\net5.0\Print and Sum.dll
+D:\VS\01. Ages\Print and Sum\bin\Debug\net5.0\ref\Print and Sum.dll
+D:\VS\01. Ages\Print and Sum\bin\Debug\net5.0\Print and Sum.pdb
+D:\VS\01. Ages\Print and Sum\obj\Debug\net5.0\Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\01. Ages\Print and Sum\obj\Debug\net5.0\Print and Sum.AssemblyInfoInputs.cache
+D:\VS\01. Ages\Print and Sum\obj\Debug\net5.0\Print and Sum.AssemblyInfo.cs
+D:\VS\01. Ages\Print and Sum\obj\Debug\net5.0\Print and Sum.csproj.CoreCompileInputs.cache
+D:\VS\01. Ages\Print and Sum\obj\Debug\net5.0\Print and Sum.dll
+D:\VS\01. Ages\Print and Sum\obj\Debug\net5.0\ref\Print and Sum.dll
+D:\VS\01. Ages\Print and Sum\obj\Debug\net5.0\Print and Sum.pdb
+D:\VS\01. Ages\Print and Sum\obj\Debug\net5.0\Print and Sum.genruntimeconfig.cache

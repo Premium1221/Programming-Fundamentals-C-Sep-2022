@@ -1,0 +1,16 @@
+D:\VS\01. Ages\ConsoleApp1\obj\Debug\net5.0\Rage Expenses.csproj.AssemblyReference.cache
+D:\VS\01. Ages\ConsoleApp1\obj\Debug\net5.0\Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\01. Ages\ConsoleApp1\obj\Debug\net5.0\Rage Expenses.AssemblyInfoInputs.cache
+D:\VS\01. Ages\ConsoleApp1\obj\Debug\net5.0\Rage Expenses.AssemblyInfo.cs
+D:\VS\01. Ages\ConsoleApp1\obj\Debug\net5.0\Rage Expenses.csproj.CoreCompileInputs.cache
+D:\VS\01. Ages\ConsoleApp1\bin\Debug\net5.0\Rage Expenses.exe
+D:\VS\01. Ages\ConsoleApp1\bin\Debug\net5.0\Rage Expenses.deps.json
+D:\VS\01. Ages\ConsoleApp1\bin\Debug\net5.0\Rage Expenses.runtimeconfig.json
+D:\VS\01. Ages\ConsoleApp1\bin\Debug\net5.0\Rage Expenses.runtimeconfig.dev.json
+D:\VS\01. Ages\ConsoleApp1\bin\Debug\net5.0\Rage Expenses.dll
+D:\VS\01. Ages\ConsoleApp1\bin\Debug\net5.0\ref\Rage Expenses.dll
+D:\VS\01. Ages\ConsoleApp1\bin\Debug\net5.0\Rage Expenses.pdb
+D:\VS\01. Ages\ConsoleApp1\obj\Debug\net5.0\Rage Expenses.dll
+D:\VS\01. Ages\ConsoleApp1\obj\Debug\net5.0\ref\Rage Expenses.dll
+D:\VS\01. Ages\ConsoleApp1\obj\Debug\net5.0\Rage Expenses.pdb
+D:\VS\01. Ages\ConsoleApp1\obj\Debug\net5.0\Rage Expenses.genruntimeconfig.cache

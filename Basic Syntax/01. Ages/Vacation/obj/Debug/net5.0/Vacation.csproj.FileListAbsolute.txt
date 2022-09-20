@@ -1,0 +1,16 @@
+D:\VS\01. Ages\Vacation\bin\Debug\net5.0\Vacation.exe
+D:\VS\01. Ages\Vacation\bin\Debug\net5.0\Vacation.deps.json
+D:\VS\01. Ages\Vacation\bin\Debug\net5.0\Vacation.runtimeconfig.json
+D:\VS\01. Ages\Vacation\bin\Debug\net5.0\Vacation.runtimeconfig.dev.json
+D:\VS\01. Ages\Vacation\bin\Debug\net5.0\Vacation.dll
+D:\VS\01. Ages\Vacation\bin\Debug\net5.0\ref\Vacation.dll
+D:\VS\01. Ages\Vacation\bin\Debug\net5.0\Vacation.pdb
+D:\VS\01. Ages\Vacation\obj\Debug\net5.0\Vacation.csproj.AssemblyReference.cache
+D:\VS\01. Ages\Vacation\obj\Debug\net5.0\Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\01. Ages\Vacation\obj\Debug\net5.0\Vacation.AssemblyInfoInputs.cache
+D:\VS\01. Ages\Vacation\obj\Debug\net5.0\Vacation.AssemblyInfo.cs
+D:\VS\01. Ages\Vacation\obj\Debug\net5.0\Vacation.csproj.CoreCompileInputs.cache
+D:\VS\01. Ages\Vacation\obj\Debug\net5.0\Vacation.dll
+D:\VS\01. Ages\Vacation\obj\Debug\net5.0\ref\Vacation.dll
+D:\VS\01. Ages\Vacation\obj\Debug\net5.0\Vacation.pdb
+D:\VS\01. Ages\Vacation\obj\Debug\net5.0\Vacation.genruntimeconfig.cache
